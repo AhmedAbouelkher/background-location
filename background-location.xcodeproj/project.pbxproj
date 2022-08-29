@@ -292,6 +292,8 @@
 				DEVELOPMENT_TEAM = SCEW37DC3L;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "background-location/Info.plist";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "This app needs access to location when in the background.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "This app needs access to location when open.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -320,6 +322,8 @@
 				DEVELOPMENT_TEAM = SCEW37DC3L;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "background-location/Info.plist";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "This app needs access to location when in the background.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "This app needs access to location when open.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
